@@ -1,2 +1,5 @@
 # remus
-Code for my REMUS REU project, Satellite Observations of PM2.5 Concentrations.
+## **Evaluating Particulate Matter Retrievals from the Tropospheric Emissions: Monitoring of Pollution (TEMPO) Mission in North Carolina**
+### Stella Foreman, Ebenezer Boakye Yiadom, Ian Chang
+
+This project was completed as part of the Research Experiences and Mentorship in Urban Systems (REMUS) REU at University of North Carolina at Charlotte.
