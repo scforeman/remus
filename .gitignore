@@ -1,0 +1,8 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.data/*
+.figs/*
+.maps.ipynb
+.timeseries.ipynb
+.ignore/*
